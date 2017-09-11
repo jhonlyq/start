@@ -1,0 +1,22 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "热启动",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonlyq/start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonlyq/start/issues"
+  },
+  "homepage": "https://github.com/jhonlyq/start#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
